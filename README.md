@@ -17,9 +17,6 @@ class Skills extends Desenvolvedor {
 
 ```
 
-## Linguagens e ferramentas
-
-
 ## Status
 
 <table>
@@ -50,23 +47,19 @@ class Skills extends Desenvolvedor {
 </table>
 <br />
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[email]: https://codedev.ga/
+[linkedin]: https://www.linkedin.com/in/gabriel-meira-de-oliveira/
+
+<br>
+
+## Rede sociais
+
+[email]: gabriel_meira@icloud.com
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 
 <br>
 
 ## Rede sociais
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="gabriel_meira@icloud.com" alt="Gmail" /></a>
-
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/gabriel-meira-de-oliveira/" alt="LinkedIn"/></a>
-
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://wa.me/5541998315324?text=Ol%C3%A1+Gabriel%2C+tudo+bem%3F++Acessei+o+seu+GitHub%2C+podemos+conversar+%F0%9F%98%80)https://wa.me/5541998315324?text=Ol%C3%A1+Gabriel%2C+tudo+bem%3F++Acessei+o+seu+GitHub%2C+podemos+conversar+%F0%9F%98%80" alt="WhatsApp"/></a>
-</p>
+🏡 [Email][email] **|**
+👔 [LinkedIn][linkedin]
