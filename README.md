@@ -47,17 +47,8 @@ class Skills extends Desenvolvedor {
 </table>
 <br />
 
-[email]: https://codedev.ga/
-[linkedin]: https://www.linkedin.com/in/gabriel-meira-de-oliveira/
-
-<br>
-
-## Rede sociais
-
 [email]: gabriel_meira@icloud.com
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-
-<br>
+[linkedin]: https://www.linkedin.com/in/gabriel-meira-de-oliveira/
 
 ## Rede sociais
 
